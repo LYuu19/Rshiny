@@ -2,7 +2,7 @@
 These are the shiny apps I made in the 8-week summer internship at the Mathematical School of the University of Nottingham. They are aimed at helping distance learning students to understand basic statistics knowledge. As I was in distance learning last year due to Covid-19, I believe this project is meaningful in improving the learning experience of those students.
 
 
-# Learning resources
+# Learning Resources
 Shiny: https://shiny.rstudio.com/tutorial/
 
 Shinydashboard: http://rstudio.github.io/shinydashboard/
