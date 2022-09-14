@@ -7,7 +7,7 @@ Shiny: https://shiny.rstudio.com/tutorial/
 
 Shinydashboard: http://rstudio.github.io/shinydashboard/
 
-App Examples: https://sites.psu.edu/shinyapps/category/introductory-apps/data-gathering/  (This is a website I found really useful as it contains lots of beautiful and good shiny apps for teaching.)
+App Examples: https://sites.psu.edu/shinyapps/category/introductory-apps/data-gathering/  (This is a website I found really useful as it contains lots of beautiful and good shiny apps.)
 
 
 # 
